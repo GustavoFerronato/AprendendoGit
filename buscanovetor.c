@@ -27,10 +27,7 @@ int main()
     }else printf("\nO valor NAO esta presente");
 
 
-    if (do
-    {
-        /* code */
-    } while (/* condition */);
+    if (
     )
     {
         /* code */
