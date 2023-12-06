@@ -7,8 +7,8 @@ int main(){
     printf("Digite o valor de N: ");
     scanf("%d", &n);
 
-    for(i = 0, i < n , i++)
+    for(i = 0; i < n ; i++)
     {
-        printf("Valor %d", i + 1);
+        printf("\nValor %d", i + 1);
     }   
 }
