@@ -1,3 +1,3 @@
-# AprendendoGit123
+# AprendendoGit
 
 teste, digitando no vs code
