@@ -19,5 +19,7 @@ int main(){
     printf("Adicionando segunda linha na branch 2");
 
 
-    printf("Criando a TERCEIRA BRANC");
+    printf("Criando a TERCEIRA BRANCH");
+    printf("Entendendo o posicionamento da alteração na terceira branch");
+
 }
