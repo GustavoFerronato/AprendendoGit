@@ -16,4 +16,5 @@ int main(){
     }   
     printf("--------- adicionando uma nova branch ---------");
     printf("Alteracao para verificar o resultado da nova branch");
+    printf("Adicionando segunda linha na branch 2");
 }
